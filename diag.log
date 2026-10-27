@@ -1,0 +1,121 @@
+10:38:52.800 OnStartup started
+10:38:52.801 Loading settings and catalog
+10:38:52.886 Loaded 71 charms
+10:38:52.887 Creating OverlayWindow
+10:38:52.999 Creating ControlCenterWindow
+10:38:53.000 [CCW] Constructor started
+10:38:53.001 [CCW] Calling InitializeWindow
+10:38:53.027 [CCW] Calling BuildUI
+10:38:53.053 [CCW] Calling SwitchTab(0)
+10:38:53.836 [CCW] Constructor finished
+10:38:53.837 Creating TrayManager
+10:38:53.885 Showing OverlayWindow
+10:38:54.099 Showing ControlCenterWindow
+10:38:54.186 OnStartup completed successfully
+10:54:13.176 OnStartup started
+10:54:13.178 Loading settings and catalog
+10:54:13.268 Loaded 72 charms
+10:54:13.269 Creating OverlayWindow
+03:54:26.950 OnStartup started
+03:54:26.952 Loading settings and catalog
+03:54:27.116 Loaded 72 charms
+03:54:27.116 Creating OverlayWindow
+03:54:27.319 Creating ControlCenterWindow
+03:54:27.321 [CCW] Constructor started
+03:54:27.321 [CCW] Calling InitializeWindow
+03:54:27.397 [CCW] Calling BuildUI
+03:54:27.480 [CCW] Calling SwitchTab(0)
+03:54:29.612 [CCW] Constructor finished
+03:54:29.614 Creating TrayManager
+03:54:29.746 Showing OverlayWindow
+03:54:29.961 Showing ControlCenterWindow
+03:54:30.136 OnStartup completed successfully
+03:55:23.832 ExitApplication called
+03:55:23.871 OnExit called! Exit code: 0
+06:17:18.007 OnStartup started
+06:17:18.008 Loading settings and catalog
+06:17:18.121 Loaded 73 charms
+06:17:18.122 Creating OverlayWindow
+06:17:18.303 Creating ControlCenterWindow
+06:17:19.402 Creating TrayManager
+06:17:19.595 Showing OverlayWindow
+06:17:19.833 Showing ControlCenterWindow
+06:17:20.109 OnStartup completed successfully
+06:17:30.494 ExitApplication called
+06:17:30.545 OnExit called! Exit code: 0
+07:04:14.751 OnStartup started
+07:04:14.753 Loading settings and catalog
+07:04:15.028 Loaded 73 charms
+07:04:15.028 Creating OverlayWindow
+07:04:15.394 Creating ControlCenterWindow
+07:04:17.925 Creating TrayManager
+07:04:18.354 Showing OverlayWindow
+07:04:18.718 Showing ControlCenterWindow
+07:04:19.034 OnStartup completed successfully
+07:10:50.345 ExitApplication called
+07:10:50.411 OnExit called! Exit code: 0
+09:43:41.325 OnStartup started
+09:43:41.326 Loading settings and catalog
+09:43:41.409 Loaded 73 charms
+09:43:41.410 Creating OverlayWindow
+09:43:41.519 Creating ControlCenterWindow
+09:43:42.530 Creating TrayManager
+09:43:42.785 Showing OverlayWindow
+09:43:43.024 Showing ControlCenterWindow
+09:43:43.285 OnStartup completed successfully
+09:55:26.553 OnStartup started
+09:55:26.554 Loading settings and catalog
+09:55:26.639 Loaded 73 charms
+09:55:26.640 Creating OverlayWindow
+09:55:26.754 Creating ControlCenterWindow
+09:55:27.648 Creating TrayManager
+09:55:27.758 Showing OverlayWindow
+09:55:27.937 Showing ControlCenterWindow
+09:55:28.263 OnStartup completed successfully
+09:57:36.916 OnStartup started
+09:57:36.917 Loading settings and catalog
+09:57:37.007 Loaded 73 charms
+09:57:37.007 Creating OverlayWindow
+09:57:37.121 Creating ControlCenterWindow
+09:57:38.263 Creating TrayManager
+09:57:38.359 Showing OverlayWindow
+09:57:38.555 Showing ControlCenterWindow
+09:57:38.850 OnStartup completed successfully
+09:58:35.240 OnStartup started
+09:58:35.241 Loading settings and catalog
+09:58:35.331 Loaded 73 charms
+09:58:35.332 Creating OverlayWindow
+09:58:35.469 Creating ControlCenterWindow
+09:58:36.505 Creating TrayManager
+09:58:36.606 Showing OverlayWindow
+09:58:36.784 Showing ControlCenterWindow
+09:58:37.052 OnStartup completed successfully
+10:01:19.541 OnStartup started
+10:01:19.543 Loading settings and catalog
+10:01:19.641 Loaded 73 charms
+10:01:19.642 Creating OverlayWindow
+10:01:19.780 Creating ControlCenterWindow
+10:01:20.740 Creating TrayManager
+10:01:20.872 Showing OverlayWindow
+10:01:21.096 Showing ControlCenterWindow
+10:01:21.392 OnStartup completed successfully
+10:05:06.345 OnStartup started
+10:05:06.347 Loading settings and catalog
+10:05:06.426 Loaded 74 charms
+10:05:06.426 Creating OverlayWindow
+10:05:06.537 Creating ControlCenterWindow
+10:05:07.495 Creating TrayManager
+10:05:07.617 Showing OverlayWindow
+10:05:07.832 Showing ControlCenterWindow
+10:05:08.087 OnStartup completed successfully
+10:40:24.476 OnStartup started
+10:40:24.477 Loading settings and catalog
+10:40:24.614 Loaded 76 charms
+10:40:24.614 Creating OverlayWindow
+10:40:25.145 Creating ControlCenterWindow
+10:40:26.843 Creating TrayManager
+10:40:27.741 Showing OverlayWindow
+10:40:28.778 Showing ControlCenterWindow
+10:40:29.436 OnStartup completed successfully
+10:55:35.495 ExitApplication called
+10:55:35.651 OnExit called! Exit code: 0

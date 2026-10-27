@@ -1,0 +1,758 @@
+[
+  {
+    "id": "lucky_&_cultural_four_leaf_clover",
+    "name": "Four-Leaf Clover",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Four-Leaf Clover.png",
+    "origin": "WORLD",
+    "description": "One leaf in ten thousand, kept for the luck the other three never had. Rub it for luck!",
+    "actionText": "✨ Sparkle",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155"
+  },
+  {
+    "id": "lucky_&_cultural_fu",
+    "name": "Fu",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Fu.png",
+    "origin": "WORLD",
+    "description": "The character for fortune, often hung upside down since upside-down and arrive sound identical.",
+    "actionText": "✨ Sparkle",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155"
+  },
+  {
+    "id": "lucky_&_cultural_bead",
+    "name": "Bead",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Bead.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_camera",
+    "name": "Camera",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Camera.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_daruma",
+    "name": "Daruma",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Daruma.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_dhrishti_bomma",
+    "name": "Drishti bommai",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Dhrishti bomma.png",
+    "origin": "INDIA",
+    "description": "Traditional fierce warding talisman to deflect evil gaze and attract good luck.",
+    "actionText": "🧿 Ward off evil",
+    "gradientStart": "#831843",
+    "gradientEnd": "#db2777"
+  },
+  {
+    "id": "lucky_&_cultural_diamond",
+    "name": "Diamond",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Diamond.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_dream_catcher",
+    "name": "Dream Catcher",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Dream Catcher.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_emoji",
+    "name": "Emoji",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Emoji.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_ghanta",
+    "name": "Ghanta",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Ghanta.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_hamsa",
+    "name": "Hamsa",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Hamsa.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_heart",
+    "name": "Heart",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Heart.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_himmeli",
+    "name": "Himmeli",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Himmeli.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_horseshoe",
+    "name": "Horseshoe",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Horseshoe.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_maneki_neko",
+    "name": "Maneki-neko",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Maneki-neko.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_nazar_boncuğu",
+    "name": "Nazar Boncuğu",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Nazar Boncuğu.png",
+    "origin": "TURKEY & THE LEVANT",
+    "description": "A blue glass eye, layered like a gaze fixed back at the world. Give it a spin!",
+    "actionText": "🔄 Spin it once",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#0284c7"
+  },
+  {
+    "id": "lucky_&_cultural_nimbu_mirchi",
+    "name": "Nimbu-mirchi",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Nimbu-mirchi.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_pánchang_jié",
+    "name": "Pánchang Jié",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Pánchang Jié.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "lucky_&_cultural_scarab",
+    "name": "Scarab",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Scarab.png",
+    "origin": "EGYPT",
+    "description": "Carved in the likeness of the beetle that rolled the sun across the sky each day.",
+    "actionText": "🔄 Turn it over",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#d97706"
+  },
+  {
+    "id": "lucky_&_cultural_star",
+    "name": "Star",
+    "category": "Lucky & Cultural",
+    "path": "Assets/Charms/Star.png",
+    "gradientStart": "#1e293b",
+    "gradientEnd": "#334155",
+    "actionText": "✨ Sparkle",
+    "origin": "WORLD"
+  },
+  {
+    "id": "avengers_captain_america",
+    "name": "Captain-America",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Captain-America.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "avengers_hulk",
+    "name": "Hulk",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Hulk.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "avengers_iron_man",
+    "name": "Iron-Man",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Iron-Man.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "avengers_spider_man_swinging",
+    "name": "Spider-Man Swinging",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Spider-Man Swinging.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "avengers_spider_man",
+    "name": "Spider-Man",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Spider-Man.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "avengers_thor_mjölnir",
+    "name": "Thor Mjölnir",
+    "category": "Avengers",
+    "path": "Assets/Charms/Avengers/Thor Mjölnir.png",
+    "gradientStart": "#7f1d1d",
+    "gradientEnd": "#b91c1c",
+    "actionText": "⚡ Hero surge",
+    "origin": "MARVEL"
+  },
+  {
+    "id": "breaking_bad_gus_fring",
+    "name": "Gus Fring",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Gus Fring.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_heisenberg",
+    "name": "Heisenberg",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Heisenberg.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_jesse_pinkman",
+    "name": "Jesse Pinkman",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Jesse Pinkman.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_mike_ehrmantraut",
+    "name": "Mike Ehrmantraut",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Mike Ehrmantraut.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_rv",
+    "name": "RV",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/RV.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_saul_goodman",
+    "name": "Saul Goodman",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Saul Goodman.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "breaking_bad_walter_white",
+    "name": "Walter White",
+    "category": "Breaking Bad",
+    "path": "Assets/Charms/Breaking Bad/Walter White.png",
+    "gradientStart": "#14532d",
+    "gradientEnd": "#15803d",
+    "actionText": "⚗️ Cook vibe",
+    "origin": "ALBUQUERQUE"
+  },
+  {
+    "id": "bts_j_hope",
+    "name": "j-hope",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/j-hope.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_jimin",
+    "name": "Jimin",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/Jimin.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_jin",
+    "name": "Jin",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/Jin.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_jungkook",
+    "name": "Jungkook",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/Jungkook.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_rm",
+    "name": "RM",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/RM.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_suga",
+    "name": "SUGA",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/SUGA.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "bts_v",
+    "name": "V",
+    "category": "BTS",
+    "path": "Assets/Charms/BTS/V.png",
+    "gradientStart": "#581c87",
+    "gradientEnd": "#9333ea",
+    "actionText": "💜 Purple heart",
+    "origin": "K-POP"
+  },
+  {
+    "id": "dc_bat_man",
+    "name": "Bat-Man",
+    "category": "DC",
+    "path": "Assets/Charms/DC/Bat-Man.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#334155",
+    "actionText": "🦇 Bat pulse",
+    "origin": "DC COMICS"
+  },
+  {
+    "id": "dc_flash",
+    "name": "Flash",
+    "category": "DC",
+    "path": "Assets/Charms/DC/Flash.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#334155",
+    "actionText": "🦇 Bat pulse",
+    "origin": "DC COMICS"
+  },
+  {
+    "id": "dc_green_lantern",
+    "name": "Green Lantern",
+    "category": "DC",
+    "path": "Assets/Charms/DC/Green Lantern.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#334155",
+    "actionText": "🦇 Bat pulse",
+    "origin": "DC COMICS"
+  },
+  {
+    "id": "dc_super_man",
+    "name": "Super-Man",
+    "category": "DC",
+    "path": "Assets/Charms/DC/Super-Man.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#334155",
+    "actionText": "🦇 Bat pulse",
+    "origin": "DC COMICS"
+  },
+  {
+    "id": "dc_wonder_women",
+    "name": "Wonder Women",
+    "category": "DC",
+    "path": "Assets/Charms/DC/Wonder Women.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#334155",
+    "actionText": "🦇 Bat pulse",
+    "origin": "DC COMICS"
+  },
+  {
+    "id": "football_fc_barcelona",
+    "name": "FC Barcelona",
+    "category": "Football",
+    "path": "Assets/Charms/Football/FC Barcelona.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#1d4ed8",
+    "actionText": "⚽ Goal curve",
+    "origin": "STADIUM"
+  },
+  {
+    "id": "football_messi_10",
+    "name": "Messi 10",
+    "category": "Football",
+    "path": "Assets/Charms/Football/Messi 10.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#1d4ed8",
+    "actionText": "⚽ Goal curve",
+    "origin": "STADIUM"
+  },
+  {
+    "id": "football_neymar_10",
+    "name": "Neymar 10",
+    "category": "Football",
+    "path": "Assets/Charms/Football/Neymar 10.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#1d4ed8",
+    "actionText": "⚽ Goal curve",
+    "origin": "STADIUM"
+  },
+  {
+    "id": "football_real_madrid",
+    "name": "Real Madrid",
+    "category": "Football",
+    "path": "Assets/Charms/Football/Real Madrid.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#1d4ed8",
+    "actionText": "⚽ Goal curve",
+    "origin": "STADIUM"
+  },
+  {
+    "id": "football_ronaldo_7",
+    "name": "Ronaldo 7",
+    "category": "Football",
+    "path": "Assets/Charms/Football/Ronaldo 7.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#1d4ed8",
+    "actionText": "⚽ Goal curve",
+    "origin": "STADIUM"
+  },
+  {
+    "id": "friends_chandler_bing",
+    "name": "Chandler Bing",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Chandler Bing.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "friends_joey_tribbiani",
+    "name": "Joey Tribbiani",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Joey Tribbiani.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "friends_monica_geller",
+    "name": "Monica Geller",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Monica Geller.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "friends_phoebe_buffay",
+    "name": "Phoebe Buffay",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Phoebe Buffay.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "friends_rachel_green",
+    "name": "Rachel Green",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Rachel Green.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "friends_ross_geller",
+    "name": "Ross Geller",
+    "category": "Friends",
+    "path": "Assets/Charms/Friends/Ross Geller.png",
+    "gradientStart": "#78350f",
+    "gradientEnd": "#b45309",
+    "actionText": "☕ Central Perk",
+    "origin": "MANHATTAN"
+  },
+  {
+    "id": "music_billie_eilish",
+    "name": "Billie Eilish",
+    "category": "Music",
+    "path": "Assets/Charms/Music/Billie Eilish.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "music_juice_wrld",
+    "name": "Juice WRLD",
+    "category": "Music",
+    "path": "Assets/Charms/Music/Juice WRLD.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "music_michael_jackson",
+    "name": "Michael Jackson",
+    "category": "Music",
+    "path": "Assets/Charms/Music/Michael Jackson.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "music_taylor_swift",
+    "name": "Taylor Swift",
+    "category": "Music",
+    "path": "Assets/Charms/Music/Taylor Swift.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "music_the_weeknd",
+    "name": "The Weeknd",
+    "category": "Music",
+    "path": "Assets/Charms/Music/The Weeknd.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "music_xxxtentacion",
+    "name": "XXXTentacion",
+    "category": "Music",
+    "path": "Assets/Charms/Music/XXXTentacion.png",
+    "gradientStart": "#4c1d95",
+    "gradientEnd": "#6d28d9",
+    "actionText": "🎵 Beat drop",
+    "origin": "BILLBOARD"
+  },
+  {
+    "id": "stranger_things_demogorgon",
+    "name": "Demogorgon",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Demogorgon.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "stranger_things_dustin_henderson",
+    "name": "Dustin Henderson",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Dustin Henderson.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "stranger_things_eleven",
+    "name": "Eleven",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Eleven.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "stranger_things_lucas_sinclair",
+    "name": "Lucas Sinclair",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Lucas Sinclair.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "stranger_things_mike_wheeler",
+    "name": "Mike Wheeler",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Mike Wheeler.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "stranger_things_will_byers",
+    "name": "Will Byers",
+    "category": "Stranger Things",
+    "path": "Assets/Charms/Stranger Things/Will Byers.png",
+    "gradientStart": "#450a0a",
+    "gradientEnd": "#991b1b",
+    "actionText": "🧇 Upside Down",
+    "origin": "HAWKINS"
+  },
+  {
+    "id": "tamil_gods_karuppu",
+    "name": "Karuppu",
+    "category": "Tamil Gods",
+    "path": "Assets/Charms/Tamil Gods/Karuppu.png",
+    "gradientStart": "#7c2d12",
+    "gradientEnd": "#c2410c",
+    "actionText": "🪔 Divine blessing",
+    "origin": "TAMIL NADU"
+  },
+  {
+    "id": "tamil_gods_mani",
+    "name": "Mani",
+    "category": "Tamil Gods",
+    "path": "Assets/Charms/Tamil Gods/Mani.png",
+    "gradientStart": "#7c2d12",
+    "gradientEnd": "#c2410c",
+    "actionText": "🪔 Divine blessing",
+    "origin": "TAMIL NADU"
+  },
+  {
+    "id": "tamil_gods_muruga_vel",
+    "name": "Muruga Vel",
+    "category": "Tamil Gods",
+    "path": "Assets/Charms/Tamil Gods/Muruga Vel.png",
+    "gradientStart": "#7c2d12",
+    "gradientEnd": "#c2410c",
+    "actionText": "🪔 Divine blessing",
+    "origin": "TAMIL NADU"
+  },
+  {
+    "id": "tamil_gods_om",
+    "name": "OM",
+    "category": "Tamil Gods",
+    "path": "Assets/Charms/Tamil Gods/OM.png",
+    "gradientStart": "#7c2d12",
+    "gradientEnd": "#c2410c",
+    "actionText": "🪔 Divine blessing",
+    "origin": "TAMIL NADU"
+  },
+  {
+    "id": "tamil_gods_vinayaga",
+    "name": "Vinayaga",
+    "category": "Tamil Gods",
+    "path": "Assets/Charms/Tamil Gods/Vinayaga.png",
+    "gradientStart": "#7c2d12",
+    "gradientEnd": "#c2410c",
+    "actionText": "🪔 Divine blessing",
+    "origin": "TAMIL NADU"
+  }
+  ,{
+    "id": "cricket_rohit_45",
+    "name": "Rohit Sharma 45",
+    "category": "Cricket",
+    "path": "Assets/Charms/Cricket/Rohit Sharma 45.png",
+    "gradientStart": "#1e3a8a",
+    "gradientEnd": "#f97316",
+    "actionText": "🏏 Pull shot",
+    "origin": "TEAM INDIA"
+  },
+  {
+    "id": "psk_cabseo_king",
+    "name": "Cabseo King",
+    "category": "PSK",
+    "path": "Assets/Charms/PSK/Cabseo King.png",
+    "gradientStart": "#0f172a",
+    "gradientEnd": "#38bdf8",
+    "actionText": "👑 Royal swing",
+    "origin": "PSK DEVELOPER",
+    "description": "The official PSK Developer charm - Cabseo King."
+  }
+]
